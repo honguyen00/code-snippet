@@ -19,6 +19,6 @@ This is the overall look of the website <br />
 When you want to copy a snippet of css code, click on the card that contain the piece of code. The card will be hightlighted as well as the block of code will be selected. Then you can right click -> copy (CTRL + C) and paste the code the wherever you want.
 
 <p align="center">
-  <img src="assets/images/smallscreen.png" />
+  <img src="assets/images/smallscreen.png" alt="demo image of clicking on a card" />
 </p>
 
